@@ -19,5 +19,5 @@ assignees: ''
 **Checklist**:
 <!--- Make sure you've completed the following steps (put an "X" between of brackets): -->
 - [] I made sure there are no duplicates of my suggestion [(Use search)](https://github.com/IntellectualSites/PlotSquaredSuggestions/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+)
-- [] I made sure my suggestion does not exist yet [(Check the wiki)](https://github.com/IntellectualSites/FastAsyncWorldEdit-1.13/wiki)
+- [] I made sure my suggestion does not exist yet [(Check the wiki)](https://github.com/IntellectualSites/PlotSquared/wiki)
 - [] I made sure my suggestion is useful for the majority of PlotSquared users
